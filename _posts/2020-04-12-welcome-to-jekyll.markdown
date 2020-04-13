@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "What is the LC-3?"
 date:   2020-04-12 20:31:56 -0400
 categories: jekyll update
