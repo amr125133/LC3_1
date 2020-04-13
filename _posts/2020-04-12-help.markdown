@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Help and Touble Shooting"
+categories: jekyll update
+---
+
+## What should you do if you run into a probelm?
+
+If you run into any problems during any steps of using the LC-3 simulator that includes setting the simulator up, using NotePad++ to create exicutable .hex files, or problems downloading any of the application please feel free to email me at 
+**_Richardam@appstate.edu_**
