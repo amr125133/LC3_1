@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "What is the LC-3 Simulator"
 date:   2020-04-12 20:28:56 -0400
 categories: jekyll update
 ---
