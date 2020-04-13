@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "What is the LC-3 Simulator"
-date:   2020-04-12 20:28:56 -0400
+title:  "4"
+date:   2020-04-12 20:31:56 -0400
 categories: jekyll update
 ---
 The LC-3 is a programm that was created by Sanjay J. Patel, and is used in many schools across the nation to teach students about low-level programming. The LC-3 is a simple form of a processor that also has more complex fetures, which makes it the perfect tool for beginners learning this sytle of programming
