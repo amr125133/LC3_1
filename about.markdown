@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: Licensing
 permalink: /about/
 ---
+# LC-3 Licensing
+#### [Click-here](https://github.com/wchargin/lc3/blob/master/LICENSE) 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Java and Oracle Licensing
+#### [Oracle](https://www.oracle.com/downloads/licenses/javase-license1.html)  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### [Java Binary code](https://www.oracle.com/downloads/licenses/binary-code-license.html)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# NotePad++ Licensing
+#### [Click here](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/LICENSE)
