@@ -64,3 +64,5 @@ Now is the exciting part where I will guide you on how to use your text editor w
 
   * You can now type the decimal value that you want to place in the register.
   * Click the **OK** button and your decimal value will be converted into a hex value and stored in the selected register.
+
+Click [here](https://amr125133.github.io/LC3_1/jekyll/update/2020/04/13/help.html) to move onto the next section.

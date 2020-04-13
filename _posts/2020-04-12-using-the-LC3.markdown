@@ -26,3 +26,5 @@ categories: jekyll update
 * The file will be downloaded as a .jar file in your downloads folder of your computer.
 * You can drag this .jar file from your downloads file onto your desktop to create a shortcut for easier acess.
 * The LC-3 simulator is now sucessfully download and ready to use on your desktop!!
+
+Click [here](https://amr125133.github.io/LC3_1/jekyll/update/2020/04/13/Using-the-LC-3.html) to move onto the next section.
