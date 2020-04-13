@@ -9,3 +9,5 @@ categories: jekyll update
 
 If you run into any problems during any steps of using the LC-3 simulator that includes setting the simulator up, using NotePad++ to create exicutable .hex files, or problems downloading any of the application please feel free to email me at 
 **_Richardam@appstate.edu_**
+
+* _if you are having troubles writing a program for the LC-3 you should contact your professor. This guide was only meant to help you understand what the LC-3 is used for, how to set it up, and the functionalities of the LC-3._
